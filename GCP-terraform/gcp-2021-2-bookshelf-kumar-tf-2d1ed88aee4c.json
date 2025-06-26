@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gcp-2021-2-bookshelf-kumar-tf",
+  "private_key_id": "2d1ed88aee4ceb95c93cdd0c8689ec375e3d98dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6YVWCgmhdbjdo\nhjAy029C4M/b/XuE7UDP1qE5uLxjk7Ij3QjXPqwVv2dIiVl4Xp+lpWs9PH2FGlKy\nZzgnuWsOs+eUitujY2AHjasgiL17Ien5J4/YfE6ezQryZmw+j3454VvRvVK3GJar\nq5eniQzUUI+qb8FzBiL6htTvs/818zc/8R83FRQ6Ng2axsCkd6VfDe2vPVN6DLNf\n7O7WufFuNbysd9OhIhj+YHHw9OaAAqvy1umqsZLu7Jnn4TweUJTsqKO7R51eMN9/\nmKvBgHS/tGxlWUFe8EZ9tMAyaODhoBWTIbC3d94CN05agE/8a86YkaWzOhYHhVYa\nL7Q6ObRrAgMBAAECggEABWa0CZGiki/ofZn1B9eYFw6frMi6wtyfgMLcUelaDvEh\nkT0qBlAswLezYm4yUh+uikTq1eUiGE0KNSQ5vLa/prcXvtonwb/Wf5bfUJSbNK2E\nJYP0/OCHHWkA4TWrULYk84dXl701X6oY3XssUAma03aGNRYfWAvjl2OxILb34BCn\nw4uL8KWcvjO06yIj8RFxT9ndKBmc++tRY227xgDgpi6LHxhZTWTFKnVQ9dXP2ZUW\nV1O+ixDQ9nOGR4pkJl9tkled0IVzEPilO0XWnERnNHogl9r7Txb70uZH4RbET0E1\nOQkjHLc3W4xe88P0JCYGoY7W/azFdTFQwUeCFqD2yQKBgQDcAXnBQCBGiUHFpHxC\n9PEP4PVOnOd7pqaeh3T6psf0eNocDzoWTNsUpSCT/bInTVaKuB9vKThED2Q1jt0g\n2Jvi9ONzfc/GQbt0cekv5ToaM2EcnVPqGrspC2DoesJtVEzX0CO9Vuk8Zvb5gNGv\n63G2C0A0nKMCrVETPbRzpsgDvQKBgQDY34QP3TJKfR5Vv1U0TPxiyUGoMollrM66\neq6MHk36Y66DeRVeQrrNhHPmc6Dfx4lCSZPGsFkWx1MJITJWRKO0M07ZkLQ83gs8\nESaUsWERmM0jobzBdTt6FFVa7M5Td/kmmsKuo1rQ+upTmpUK1ng7JRNNtA8sIQXi\ngnb+gmiHRwKBgCJ1lLWBLsz9iLDFT7VJGkzrZmDW0KccdjKUcu0jnGQdXcRRWj7N\n8O6t4olrjjD7uxdlOX82zJpUctS0uMwBQYFt7AZV6WpbN1pI0UZwOAaMj6RkvBUJ\n9NC7+ITRXYy0TIjtD/wDFeshEYQI+k78qMXjwz26Xwn3TaCe5JnMwL1dAoGBALw4\nEHdsM+9t81vb+GixwAFERdViNtilR62UN9SnoGmFBbpY5fCu3UzsfWIuTBqrJDcB\ngF1aQ5d/WlN8GiHA5IrKVM6Bxctlsj5pbCB0aZhKEw+vmRAVXI8xAnstNkw+vV+B\nxSCn6XOhsKjqahvD0wkRvlUbxmc4KdFSBVARggKVAoGBAMqjNoDmrQePvUJgQIzn\nj30JNPNnW3NcpJV20VnV8GB4YcSzHKQ2VxqnS3FH4eb5inzOh+lPS8fiwlqKJmLj\n1wPyKEpFPvgFTAuL2dZ6OdZLWeowlDisrL4RsfXqY8K4Ba+U8X6DVhk+S40RAT7t\nmekJ+FSxwaaVbrl0QxwmdPPE\n-----END PRIVATE KEY-----\n",
+  "client_email": "custom-terraform-service-accou@gcp-2021-2-bookshelf-kumar-tf.iam.gserviceaccount.com",
+  "client_id": "109966848825411355386",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/custom-terraform-service-accou%40gcp-2021-2-bookshelf-kumar-tf.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
